@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    border: solid 2px;
+    margin: 16px;
+
+}
+.estilo {
+    background-color: #191818;
+    margin: 16px 16px;
+    padding: 24px;
+    color: azure;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+article {
+    display: flex;
+    margin: 124px;
+    justify-content: space-between;
+}
+
+span {
+    color: red;
+}
+
